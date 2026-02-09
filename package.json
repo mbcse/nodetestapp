@@ -1,0 +1,25 @@
+{
+  "name": "nodetestapp",
+  "version": "1.0.0",
+  "description": "Simple Node.js Express test app with GET and POST endpoints",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbcse/nodetestapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mbcse/nodetestapp/issues"
+  },
+  "homepage": "https://github.com/mbcse/nodetestapp#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
